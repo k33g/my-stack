@@ -27,4 +27,9 @@
 - https://github.com/AndreasMadsen/trace
 
 ### Debug
+
 - https://www.npmjs.com/package/debug
+
+### Workers
+
+- https://github.com/audreyt/node-webworker-threads
