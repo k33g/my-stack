@@ -12,6 +12,10 @@
 - Riot
 - Vue
 
+### Event Emitter
+
+- https://github.com/tunnckoCore/dush
+
 ## VS Code extensions + themes
 
 - colorization of html in `strings` https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline
