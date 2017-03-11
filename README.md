@@ -27,7 +27,6 @@
 
 - run VS Code from command line: https://code.visualstudio.com/docs/setup/mac
 
-
 ## Nodejs
 
 ### Stacktrace
@@ -48,4 +47,3 @@
 ### Small editor
 
 - https://micro-editor.github.io/
-
