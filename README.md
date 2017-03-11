@@ -19,6 +19,11 @@
 - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 - https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets
 
+### Tip
+
+- run VS Code from command line: https://code.visualstudio.com/docs/setup/mac
+
+
 ## Nodejs
 
 ### Stacktrace
